@@ -6,8 +6,8 @@ def google_search(query, api_key, cse_id):
     response = requests.get(url)
     return response.json()
 
-api_key = "ify7gtd5thunjrfwfjklgytiuouhtyrsduiygtrs7yoiyrtwytpoiiutftrsdu"
-cse_id = "8457524697415"  # Это идентификатор вашего пользовательского поиска
+api_key = "____________________"
+cse_id = "_____________________"  # Это идентификатор вашего пользовательского поиска
 
 def speak(text):
     engine = pyttsx3.init()
