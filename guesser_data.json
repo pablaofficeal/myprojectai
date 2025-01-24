@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Кошка",
+    "type": "Животное",
+    "questions": [
+      {"question": "Ты животное?", "answer": "Да"},
+      {"question": "Ты домашний питомец?", "answer": "Да"},
+      {"question": "Ты летаешь?", "answer": "Нет"},
+      {"question": "Ты хищник?", "answer": "Да"},
+      {"question": "У тебя есть хвост?", "answer": "Да"},
+      {"question": "Ты маленький?", "answer": "Да"}
+    ]
+  },
+  {
+    "name": "Собака",
+    "type": "Животное",
+    "questions": [
+      {"question": "Ты животное?", "answer": "Да"},
+      {"question": "Ты домашний питомец?", "answer": "Да"},
+      {"question": "Ты летаешь?", "answer": "Нет"},
+      {"question": "Ты дружелюбен к людям?", "answer": "Да"},
+      {"question": "Ты хороший охранник?", "answer": "Да"}
+    ]
+  },
+  {
+    "name": "Лев",
+    "type": "Животное",
+    "questions": [
+      {"question": "Ты животное?", "answer": "Да"},
+      {"question": "Ты хищник?", "answer": "Да"},
+      {"question": "Ты живешь в дикой природе?", "answer": "Да"},
+      {"question": "Ты большой?", "answer": "Да"},
+      {"question": "Ты рычишь?", "answer": "Да"},
+      {"question": "Ты король джунглей?", "answer": "Да"}
+    ]
+  },
+  {
+    "name": "Человек",
+    "type": "Человек",
+    "questions": [
+      {"question": "Ты человек?", "answer": "Да"},
+      {"question": "Ты ходишь на двух ногах?", "answer": "Да"},
+      {"question": "Ты можешь разговаривать?", "answer": "Да"},
+      {"question": "Ты живешь в доме?", "answer": "Да"},
+      {"question": "Ты используешь технологии?", "answer": "Да"},
+      {"question": "Ты часто ходишь в магазин?", "answer": "Да"}
+    ]
+  },
+  {
+    "name": "Птица",
+    "type": "Животное",
+    "questions": [
+      {"question": "Ты животное?", "answer": "Да"},
+      {"question": "Ты можешь летать?", "answer": "Да"},
+      {"question": "Ты имеешь перья?", "answer": "Да"},
+      {"question": "Ты живешь в деревьях?", "answer": "Да"},
+      {"question": "Ты клюв?", "answer": "Да"}
+    ]
+  },
+  {
+    "name": "Дракон",
+    "type": "Мифическое существо",
+    "questions": [
+      {"question": "Ты мифическое существо?", "answer": "Да"},
+      {"question": "Ты летаешь?", "answer": "Да"},
+      {"question": "У тебя есть чешуя?", "answer": "Да"},
+      {"question": "Ты можешь дышать огнём?", "answer": "Да"},
+      {"question": "Ты страшный?", "answer": "Да"}
+    ]
+  },
+  {
+    "name": "Супермен",
+    "type": "Знаменитость",
+    "questions": [
+      {"question": "Ты человек?", "answer": "Да"},
+      {"question": "У тебя есть суперспособности?", "answer": "Да"},
+      {"question": "Ты носишь костюм?", "answer": "Да"},
+      {"question": "Ты спасатель?", "answer": "Да"},
+      {"question": "Ты знаменитый?", "answer": "Да"}
+    ]
+  },
+  {
+    "name": "Луна",
+    "type": "Объект",
+    "questions": [
+      {"question": "Ты объект?", "answer": "Да"},
+      {"question": "Ты в космосе?", "answer": "Да"},
+      {"question": "Ты спутник Земли?", "answer": "Да"},
+      {"question": "Ты светишься?", "answer": "Да"},
+      {"question": "Ты вращаешься вокруг Земли?", "answer": "Да"}
+    ]
+  },
+  {
+    "name": "Робот",
+    "type": "Техника",
+    "questions": [
+      {"question": "Ты объект?", "answer": "Да"},
+      {"question": "Ты машина?", "answer": "Да"},
+      {"question": "Ты автономный?", "answer": "Да"},
+      {"question": "Ты помогаешь людям?", "answer": "Да"},
+      {"question": "Ты можешь говорить?", "answer": "Да"}
+    ]
+  },
+  {
+    "name": "Дерево",
+    "type": "Растение",
+    "questions": [
+      {"question": "Ты живое существо?", "answer": "Да"},
+      {"question": "Ты растение?", "answer": "Да"},
+      {"question": "Ты растешь в земле?", "answer": "Да"},
+      {"question": "Ты производишь кислород?", "answer": "Да"},
+      {"question": "У тебя есть листья?", "answer": "Да"}
+    ]
+  },
+  {
+    "name": "Марс",
+    "type": "Планета",
+    "questions": [
+      {"question": "Ты планета?", "answer": "Да"},
+      {"question": "Ты находишься в космосе?", "answer": "Да"},
+      {"question": "Ты красного цвета?", "answer": "Да"},
+      {"question": "Ты одна из планет Солнечной системы?", "answer": "Да"},
+      {"question": "Ты твёрдая?", "answer": "Да"}
+    ]
+  },
+  {
+    "name": "Алиса в стране чудес",
+    "type": "Персонаж",
+    "questions": [
+      {"question": "Ты персонаж?", "answer": "Да"},
+      {"question": "Ты женщина?", "answer": "Да"},
+      {"question": "Ты из книги?", "answer": "Да"},
+      {"question": "Ты попала в волшебный мир?", "answer": "Да"},
+      {"question": "Ты часто встречаешь странных существ?", "answer": "Да"}
+    ]
+  },
+  {
+    "name": "Пират",
+    "type": "Персонаж",
+    "questions": [
+      {"question": "Ты персонаж?", "answer": "Да"},
+      {"question": "Ты человек?", "answer": "Да"},
+      {"question": "Ты носишь повязку на глазу?", "answer": "Да"},
+      {"question": "Ты на корабле?", "answer": "Да"},
+      {"question": "Ты ищешь сокровища?", "answer": "Да"}
+    ]
+  }
+]

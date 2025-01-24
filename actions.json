@@ -1,0 +1,146 @@
+[
+    {
+        "type": "switch_app",
+        "app_name": "111my jarvis my python project jarvis \u2013 main.py",
+        "timestamp": 1736874042.337523,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "pythonProject2 \u2014 \u043f\u0440\u043e\u0432\u043e\u0434\u043d\u0438\u043a",
+        "timestamp": 1736874055.7702744,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "\u042d\u0442\u043e\u0442 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440 \u2014 \u043f\u0440\u043e\u0432\u043e\u0434\u043d\u0438\u043a",
+        "timestamp": 1736874057.834857,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u2014 \u043f\u0440\u043e\u0432\u043e\u0434\u043d\u0438\u043a",
+        "timestamp": 1736874059.9058251,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "200 \u2014 \u043f\u0440\u043e\u0432\u043e\u0434\u043d\u0438\u043a",
+        "timestamp": 1736874065.070641,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u2014 \u043f\u0440\u043e\u0432\u043e\u0434\u043d\u0438\u043a",
+        "timestamp": 1736874067.1361542,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "Visual Studio Code",
+        "timestamp": 1736874069.211193,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "xref-main.html - pythonProject2 - Visual Studio Code",
+        "timestamp": 1736874070.2631752,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "Open Folder",
+        "timestamp": 1736874075.4566495,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "hhh - Visual Studio Code",
+        "timestamp": 1736874089.924714,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "index.html - hhh - Visual Studio Code",
+        "timestamp": 1736874102.3174622,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u2014 \u043f\u0440\u043e\u0432\u043e\u0434\u043d\u0438\u043a",
+        "timestamp": 1736874111.617934,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "111my jarvis my python project jarvis \u2013 main.py",
+        "timestamp": 1736874112.6500537,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "111my jarvis my python project jarvis \u2013 app_control.py",
+        "timestamp": 1736874126.292792,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "111my jarvis my python project jarvis \u2013 actions.json",
+        "timestamp": 1736874149.0177193,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "111my jarvis my python project jarvis \u2013 conversation_data.json",
+        "timestamp": 1736874163.4834654,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "111my jarvis my python project jarvis \u2013 guesser_data.json",
+        "timestamp": 1736874170.7180896,
+        "position": null,
+        "key": null,
+        "path": null
+    },
+    {
+        "type": "switch_app",
+        "app_name": "111my jarvis my python project jarvis \u2013 user_actions.json",
+        "timestamp": 1736874177.9537296,
+        "position": null,
+        "key": null,
+        "path": null
+    }
+]
